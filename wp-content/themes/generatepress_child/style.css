@@ -1,0 +1,21 @@
+/*
+Theme Name: GeneratePress Child
+Theme URI: https://generatepress.com
+Template: generatepress
+Author: Tom Usborne
+Author URI: https://tomusborne.com
+Description: Default GeneratePress child theme
+Version: 0.1.1646186165
+Updated: 2022-03-02 09:56:05
+
+*/
+
+a {
+    text-decoration: none !important;
+}
+
+.entry-content h1, .entry-content h2, .entry-content h3 {
+   background-color:#eeeeee !important; /* 背景顏色 #eeeeee */
+   border-left:5px solid orange !important; /*左側框線寬度(5px)、solid(實線)、顏色(orange)*/
+   padding:5px !important; /*行內文字間距(5px)*/
+}
